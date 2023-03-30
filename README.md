@@ -1,6 +1,6 @@
 # Adding accessibility functionality to website
 
-## Altered code base to provide more semantic code and added alt identifiers to images
+## Added semantic elements and alt identifiers to images
 
 Horiseon Digital Marketing's web site was not reaching enough potential customers due to the lack of accessibility features built into the website. This project fixed this issue to enable the site to reach more customers.
 
